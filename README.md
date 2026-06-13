@@ -1,16 +1,45 @@
-# React + Vite
+# 📚 Book Progress Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Keep the Magic of Reading Alive
 
-Currently, two official plugins are available:
+A responsive React-based Book Progress Tracker designed to help readers organize and monitor their reading journey.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Features
 
-## React Compiler
+* Dynamic Progress Bars
+* Status Categorization (Reading, Completed, Wishlist)
+* Book Ratings
+* Favorite Book Indicators ❤️
+* Search Bar
+* Reading Statistics Dashboard
+* Responsive Layout
+* Book Cover Display
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Technologies Used
 
-## Expanding the ESLint configuration
+* React.js
+* Vite
+* JavaScript
+* CSS3
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Key Frontend Skills Demonstrated
+
+* Dynamic Progress Bars
+* Status Categorization
+* Responsive UI Design
+* Component-Based Development
+* Grid Layouts
+* Asset Management
+
+### Books Included
+
+* Atomic Habits
+* A Good Girl's Guide to Murder
+* Bhagavad Gita
+* The Off-Limits Rule
+* Quran
+* Bible
+* The Silent Patient
+* The Psychology of Money
+
+Created for book lovers ❤️ by a book lover.
